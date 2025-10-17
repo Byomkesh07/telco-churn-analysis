@@ -1,0 +1,21 @@
+# Virtual environment folder
+venv/
+
+# Data folders (if data is large and not needed in repo)
+dataset/
+# Or specify only processed data if needed
+# data/processed/
+
+# Output folders with plots and reports
+outputs/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS-specific files (optional)
+.DS_Store
+Thumbs.db
